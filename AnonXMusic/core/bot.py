@@ -38,7 +38,7 @@ class Anony(Client):
             exit()
         except Exception as ex:
             LOGGER(__name__).error(
-                f"Bot has failed to access the log group/channel.\n  Reason : {type(ex).__name__}."
+                f"Bot has failed to access the log group/channel.\n  Reason : {type(ex).musicbrokn}."
             )
             exit()
 
