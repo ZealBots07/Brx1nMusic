@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
 
                 text="『🖤sᴜᴘᴘᴏʀᴛ😈』",
 
-                url=f"https://t.me/+7yFRvkorUdFiZTll",
+                url=f"https://t.me/zealanime_fun",
 
             ),
        ],
