@@ -61,14 +61,14 @@ def stream_markup_timer(_, chat_id, played, dur):
 
                 text="『😈ᴏᴡɴᴇʀ✨』",
 
-                url=f"https://t.me/mrbrokn",
+                url=f"https://t.me/byte_bkc",
 
             ),
             InlineKeyboardButton(
 
                 text="『🖤sᴜᴘᴘᴏʀᴛ😈』",
 
-                url=f"https://t.me/+7yFRvkorUdFiZTll",
+                url=f"https://t.me/zealanime_fun",
 
             ),
        ],
@@ -93,14 +93,14 @@ def stream_markup(_, chat_id):
 
                 text="『😈ᴏᴡɴᴇʀ✨』",
 
-                url=f"https://t.me/mrbrokn",
+                url=f"https://t.me/byte_bkc",
 
             ),
              InlineKeyboardButton(
 
                 text="『🖤sᴜᴘᴘᴏʀᴛ😈』",
 
-                url=f"https://t.me/+7yFRvkorUdFiZTll",
+                url=f"https://t.me/zealanime_fun",
 
             ),
         ], 
