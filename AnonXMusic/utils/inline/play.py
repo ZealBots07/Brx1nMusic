@@ -93,7 +93,7 @@ def stream_markup(_, chat_id):
 
                 text="『😈ᴏᴡɴᴇʀ✨』",
 
-                url=f"https://t.me/mrbrokn",
+                url=f"https://t.me/byte_bkc",
 
             ),
              InlineKeyboardButton(
