@@ -78,15 +78,15 @@ confirmer = {}
 
 
 START_IMG_URL = [
-     "https://telegra.ph/file/0ffb4a004185a3991ce18.jpg", 
-     "https://telegra.ph/file/ae00a24219be338fab237.jpg", 
-     "https://telegra.ph/file/6e6f85c9a5a7fa340405a.jpg", 
-     "https://telegra.ph/file/95b99d1b99da8ce7019c5.jpg", 
-     "https://telegra.ph/file/69e9522016014d6838ad3.jpg", 
+     "https://music.zealanime.tech/Imgs/IMG1.jpg", 
+     "https://music.zealanime.tech/Imgs/IMG2.jpg", 
+     "https://music.zealanime.tech/Imgs/IMG3.jpg", 
+     "https://music.zealanime.tech/Imgs/IMG4.jpg", 
+     "https://music.zealanime.tech/Imgs/IMG5.jpg", 
 ]
 
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://camo.githubusercontent.com/4c377c68442e676e91b324f987f1ff005813771e6c6935a124c6061d16ddc763/68747470733a2f2f74656c656772612e70682f66696c652f3536643137363032323435383965653337303138362e6a7067"
+    "PING_IMG_URL", "https://music.zealanime.tech/Imgs/IMG3.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/0ffb4a004185a3991ce18.jpg"
